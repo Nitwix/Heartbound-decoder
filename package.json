@@ -1,0 +1,20 @@
+{
+  "name": "heartbound-decoder",
+  "version": "1.0.0",
+  "description": "Decoder for the game Heartbound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitwix/Heartbound-decoder.git"
+  },
+  "author": "Niels Lachat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nitwix/Heartbound-decoder/issues"
+  },
+  "homepage": "https://github.com/Nitwix/Heartbound-decoder#readme",
+  "dependencies": {}
+}
